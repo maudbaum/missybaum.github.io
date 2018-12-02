@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 648 503.15">
+  <script xlink:href="./index.js" />
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-17, .cls-19, .cls-2, .cls-27, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-17, .cls-19, .cls-2, .cls-24, .cls-27, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-11, .cls-4 {
+        fill: red;
+      }
+
+      .cls-16, .cls-17, .cls-4 {
+        opacity: 0.2;
+      }
+
+      .cls-24, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-12, .cls-20, .cls-24, .cls-5 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        font-size: 18px;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-16, .cls-31 {
+        fill: #fb0d1b;
+      }
+
+      .cls-17 {
+        fill: #fffc38;
+        stroke-width: 0.21px;
+      }
+
+      .cls-18 {
+        fill: #23cafb;
+      }
+
+      .cls-18, .cls-27 {
+        opacity: 0.3;
+      }
+
+      .cls-19, .cls-24, .cls-30 {
+        fill: #1266fa;
+      }
+
+      .cls-19, .cls-24 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-19 {
+        opacity: 0.4;
+      }
+
+      .cls-20 {
+        font-size: 14px;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        stroke: #1266fa;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        fill: #666;
+        stroke-width: 0.15px;
+      }
+
+      .cls-28 {
+        fill: #979797;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .X {
+        cursor: pointer;
+      }
+    </style>
+  </defs>
+  <title>stem_ground_floor</title>
+  <g id="lines_colors" data-name="lines+colors">
+    <line class="cls-1" x1="159.81" y1="158.86" x2="485.76" y2="158.86"/>
+    <line class="cls-1" x1="485.76" y1="63.72" x2="485.76" y2="158.86"/>
+    <line class="cls-2" x1="159.81" y1="63.72" x2="159.81" y2="158.86"/>
+    <line class="cls-2" x1="485.76" y1="63.72" x2="159.81" y2="63.72"/>
+    <polyline class="cls-2" points="288.21 158.86 288.21 94.18 288.21 75.17 288.21 63.72"/>
+    <polyline class="cls-2" points="470.23 63.72 470.23 130.15 475.05 130.15"/>
+    <line class="cls-3" x1="470.23" y1="79.26" x2="485.76" y2="79.26"/>
+    <line class="cls-3" x1="470.23" y1="84.42" x2="485.76" y2="84.42"/>
+    <line class="cls-3" x1="470.23" y1="89.58" x2="485.76" y2="89.58"/>
+    <line class="cls-3" x1="470.23" y1="94.73" x2="485.76" y2="94.73"/>
+    <line class="cls-3" x1="470.23" y1="99.89" x2="485.76" y2="99.89"/>
+    <line class="cls-3" x1="470.23" y1="105.05" x2="485.76" y2="105.05"/>
+    <line class="cls-3" x1="470.23" y1="109.68" x2="485.76" y2="109.68"/>
+    <rect class="cls-4" x="288.51" y="68.49" width="177.64" height="85.47"/>
+  </g>
+  <g id="text">
+    <text class="cls-5" transform="translate(196.6 111.33)">Class <tspan class="cls-6" x="27.62" y="0">R</tspan><tspan x="34.13" y="0">oom</tspan></text>
+    <text class="cls-5" transform="translate(345.55 111.33)">G<tspan class="cls-7" x="7.75" y="0">r</tspan><tspan x="11.56" y="0">oup </tspan><tspan class="cls-8" x="34.13" y="0">S</tspan><tspan x="40.01" y="0">tudy</tspan></text>
+    <text class="cls-5" transform="translate(294.52 75.56)"><tspan class="cls-9">C</tspan><tspan x="6.83" y="0">ompu</tspan><tspan class="cls-10" x="36.86" y="0">t</tspan><tspan x="40.76" y="0">ers</tspan></text>
+    <polygon class="cls-11 X" points="462.88 144.5 460.64 142.27 465.61 137.3 460.64 132.33 462.88 130.1 467.84 135.06 472.81 130.1 475.05 132.33 470.08 137.3 475.05 142.27 472.81 144.5 467.84 139.36 462.88 144.5" onclick="switchInfo('Not Accessible', 'No elevator service to the ground floor');"/>
+    <text class="cls-12" transform="translate(159.81 190.62)">STEM - G<tspan class="cls-13" x="65.93" y="0">r</tspan><tspan x="71.64" y="0">ound </tspan><tspan class="cls-14" x="115.4" y="0">F</tspan><tspan x="123.86" y="0">loor</tspan></text>
+  </g>
+  <g id="KEY">
+    <text class="cls-12" transform="translate(81.22 232.28)"><tspan class="cls-15">M</tspan><tspan x="14.58" y="0">ap Key</tspan></text>
+    <rect class="cls-16" x="82.75" y="270.9" width="15.3" height="15.3"/>
+    <rect class="cls-17" x="82.75" y="297.87" width="15.3" height="15.3"/>
+    <rect class="cls-18" x="82.75" y="244.81" width="15.3" height="15.3"/>
+    <rect class="cls-19" x="82.75" y="324.72" width="15.3" height="15.3"/>
+    <text class="cls-20" transform="translate(104.81 254.87)">Easily <tspan class="cls-21" x="35.32" y="0">A</tspan><tspan class="cls-22" x="43.72" y="0">cc</tspan><tspan x="56.1" y="0">essible</tspan></text>
+    <text class="cls-20" transform="translate(104.81 280.97)">Not Easily <tspan class="cls-21" x="59.82" y="0">A</tspan><tspan class="cls-22" x="68.22" y="0">cc</tspan><tspan x="80.6" y="0">essible</tspan></text>
+    <text class="cls-20" transform="translate(104.81 307.94)"><tspan class="cls-23">R</tspan><tspan x="7.59" y="0">esou</tspan><tspan class="cls-7" x="35.55" y="0">r</tspan><tspan class="cls-22" x="39.98" y="0">c</tspan><tspan x="46.17" y="0">es</tspan></text>
+    <text class="cls-24" transform="translate(87.36 336.01)">E</text>
+    <text class="cls-20" transform="translate(104.81 334.78)">Ele<tspan class="cls-25" x="17.21" y="0">va</tspan><tspan class="cls-22" x="30.58" y="0">t</tspan><tspan class="cls-26" x="35.13" y="0">or</tspan></text>
+    <text class="cls-20" transform="translate(104.81 361.63)"><tspan class="cls-23">R</tspan><tspan x="7.59" y="0">est</tspan><tspan class="cls-7" x="24.78" y="0">r</tspan><tspan x="29.22" y="0">oom</tspan></text>
+    <rect class="cls-27" x="82.75" y="351.56" width="15.28" height="15.28"/>
+    <rect class="cls-28" x="88.86" y="354.56" width="3.08" height="3.08" rx="1.54" ry="1.54"/>
+    <polygon class="cls-28" points="88.06 363.81 90.4 356.1 92.74 363.81 88.06 363.81"/>
+    <rect class="cls-28" x="87.68" y="357.63" width="5.43" height="0.89"/>
+    <text class="cls-24" transform="translate(87.36 389.68)">S</text>
+    <text class="cls-20" transform="translate(104.81 388.45)">Clear Si<tspan class="cls-22" x="42.91" y="0">g</tspan><tspan x="50.65" y="0">nage</tspan></text>
+    <text class="cls-20" transform="translate(104.81 415.3)"><tspan class="cls-29">G</tspan><tspan x="9.11" y="0">ood No</tspan><tspan class="cls-22" x="52.25" y="0">t</tspan><tspan x="56.8" y="0">e</tspan></text>
+    <text class="cls-20" transform="translate(104.81 442.14)">Bad No<tspan class="cls-22" x="42.1" y="0">t</tspan><tspan x="46.65" y="0">e</tspan></text>
+    <circle class="cls-30" cx="90.39" cy="412.88" r="6.78"/>
+    <polygon class="cls-31" points="85.43 446.93 83.2 444.69 88.16 439.73 83.2 434.76 85.43 432.52 90.4 437.49 95.36 432.52 97.6 434.76 92.64 439.73 97.6 444.69 95.36 446.93 90.4 441.78 85.43 446.93"/>
+  </g>
+</svg>

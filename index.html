@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Campus Library Map</title>
+	<link rel="stylesheet" type="text/css" href="./style.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto+Slab" rel="stylesheet">
+	<script src="./index.js"></script>
+</head>
+
+<body>
+
+	<div class="page">
+		<h1 class="banner">Library Accessibility at UMD</h1>
+		<ul class="nav">
+			<li class="nav-item"><a href="./index.html">Campus Map</a></li>
+			<li class="nav-item"><a href="./about.html">About the Project</a></li>
+			<li class="nav-item"><a href="./resources.html">Resources</a></li>
+		</ul>
+		<div class="container">
+			<div class="library-name mckeldin">
+				<h2>McKeldin Library</h2>
+					<h3>Floor 1</h3>
+					<h3>Floor 2</h3>
+					<h3>Floor 3</h3>
+					<h3>Floor 4</h3>
+					<h3>Floor 5</h3>
+					<h3>Floor 6</h3>
+			</div>
+			<div class="library-name hornbake">
+				<h2>Hornbake Library</h2>
+					<h3 onclick="switchMap('hbk_groundfloor-01.svg'); switchInfo('Hornbake Library', 'This library is the home of University Archives and Special Collections. For most cases, permission is required to check out from this library. The ground floor houses the Library Media Services. <br><br>Phone: (301) 314-2710 <br>Parking: Vehicles with state issued disabled driver tags or stickers may park in the designated spaces on level G, 1, 2 and 3 in Regents Drive Parking Garage at no charge. <br><br>In Nonprint Media Services, (301-405-9236) there are automatic doors, wheelchair-accessible stations for videodisc, videotape, audio cassette, dial access and internet access. Dial access stations with amplifiers and closed caption decoders are also available.');">Ground Floor</h3>
+					<h3 onclick="switchMap('hbk-floor1-01.svg'); switchInfo('Hornbake Library', 'This library is the home of University Archives and Special Collections. For most cases, permission is required to check out from this library. The ground floor houses the Library Media Services. <br><br>Phone: (301) 314-2710 <br>Parking: Vehicles with state issued disabled driver tags or stickers may park in the designated spaces on level G, 1, 2 and 3 in Regents Drive Parking Garage at no charge.');">Floor 1</h3>
+					<h3 onclick="switchMap('hbk-floor2-01.svg'); switchInfo('Hornbake Library', 'This library is the home of University Archives and Special Collections. For most cases, permission is required to check out from this library. The ground floor houses the Library Media Services. <br><br>Phone: (301) 314-2710 <br>Parking: Vehicles with state issued disabled driver tags or stickers may park in the designated spaces on level G, 1, 2 and 3 in Regents Drive Parking Garage at no charge. <br><br>The rest of the floors are similar to floor 2.');">Floor 2</h3>
+			</div>
+			<div class="library-name stem">
+				<h2>STEM Library</h2>
+					<h3 onclick="switchMap('stem_floor1-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');">Floor 1</h3>
+					<h3 onclick="switchMap('stem_floor2-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');">Floor 2</h3>
+					<h3 onclick="switchMap('stem_floor3-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');">Floor 3</h3>
+					<h3 onclick="switchMap('stem_ground_floor-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');">Ground Floor</h3>
+			</div>
+			<div class="description">
+				<h2 id="info-heading">UMD Libraries</h2>
+				<p id="info">This map shows the location of McKeldin Library, Hornbake Library, and the STEM library, along with the accessible routes between them.</p>
+			</div>
+			<object id="campus-map" data="./campus_library_map.svg" type="image/svg+xml" class="map" />
+		</div>
+	</div>
+
+</body>
+</html>
