@@ -70,12 +70,12 @@ a {
 }
 
 ::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    background: transparent;  /* optional: just make scrollbar invisible */
+    width: 5px;
 }
 /* optional: show position indicator in red */
 ::-webkit-scrollbar-thumb {
-    background: #FF0000;
+    background: #CCCCCC;
+    border-radius: 50px;
 }
 
 .library-name h3:hover {
