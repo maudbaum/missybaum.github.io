@@ -359,6 +359,10 @@
       .cls-81 {
         letter-spacing: 0em;
       }
+
+      #O, #X {
+        cursor: pointer;
+      }
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" x="42.84" y="94.38" width="444.18" height="441.41"/>
@@ -486,16 +490,16 @@
     <path class="cls-18" d="M365.67,393.55a1.42,1.42,0,1,1-1.42,1.42,1.42,1.42,0,0,1,1.42-1.42"/>
     <text class="cls-19" transform="translate(297.85 420.17)">S</text>
     <g id="O">
-      <circle class="cls-20" cx="299.28" cy="134.92" r="6.78"/>
-      <circle class="cls-20" cx="304.12" cy="502.83" r="6.78"/>
-      <circle class="cls-20" cx="231.85" cy="518.06" r="6.78"/>
-      <circle class="cls-20" cx="139.1" cy="465.99" r="6.78"/>
-      <circle class="cls-20" cx="235.31" cy="291.44" r="6.78"/>
-      <circle class="cls-20" cx="294.81" cy="373.01" r="6.78"/>
-      <circle class="cls-20" cx="186.15" cy="254.81" r="6.78"/>
+      <circle class="cls-20" cx="299.28" cy="134.92" r="6.78" onclick="switchInfo('O1', '');"/>
+      <circle class="cls-20" cx="304.12" cy="502.83" r="6.78" onclick="switchInfo('O6', '');"/>
+      <circle class="cls-20" cx="231.85" cy="518.06" r="6.78" onclick="switchInfo('O7', '');"/>
+      <circle class="cls-20" cx="139.1" cy="465.99" r="6.78" onclick="switchInfo('O5', '');"/>
+      <circle class="cls-20" cx="235.31" cy="291.44" r="6.78" onclick="switchInfo('O3', '');"/>
+      <circle class="cls-20" cx="294.81" cy="373.01" r="6.78" onclick="switchInfo('O4', '');"/>
+      <circle class="cls-20" cx="186.15" cy="254.81" r="6.78" onclick="switchInfo('O2', '');"/>
     </g>
     <g id="X">
-      <polygon class="cls-21" points="197.8 124.74 195.56 122.5 200.53 117.54 195.56 112.57 197.8 110.33 202.77 115.3 207.73 110.33 209.97 112.57 205 117.54 209.97 122.5 207.73 124.74 202.77 119.59 197.8 124.74"/>
+      <polygon class="cls-21" points="197.8 124.74 195.56 122.5 200.53 117.54 195.56 112.57 197.8 110.33 202.77 115.3 207.73 110.33 209.97 112.57 205 117.54 209.97 122.5 207.73 124.74 202.77 119.59 197.8 124.74" onclick="switchInfo('X1', '');"/>
     </g>
     <text class="cls-19" transform="translate(216.69 284.82)">S</text>
   </g>
