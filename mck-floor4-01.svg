@@ -629,17 +629,17 @@
     <text class="cls-32" transform="translate(352.54 403.72)">S</text>
     <g id="O">
       <circle class="cls-33" cx="259.72" cy="271.22" r="6.78" onclick="switchInfo('Service Phone', '');"/>
-      <circle class="cls-33" cx="454.36" cy="367.62" r="6.78" onclick="switchInfo('O4', '');"/>
-      <circle class="cls-33" cx="347.69" cy="299.84" r="6.78" onclick="switchInfo('O3', '');"/>
-      <circle class="cls-33" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('O1', '');"/>
+      <circle class="cls-33" cx="454.36" cy="367.62" r="6.78" onclick="switchInfo('Reading Room', 'Very spacious and all tables are at a good height');"/>
+      <circle class="cls-33" cx="347.69" cy="299.84" r="6.78" onclick="switchInfo('Ramp', 'There are no stairs between the front wing and the back wing, just ramps for everyone/'s convenience');"/>
+      <circle class="cls-33" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('Study Carrels', 'Accessible study carrels may be reserved for people with disabilities');"/>
     </g>
     <g id="X">
-      <polygon class="cls-34" points="255.91 203.79 253.67 201.55 258.64 196.59 253.67 191.62 255.91 189.38 260.88 194.35 265.84 189.38 268.08 191.62 263.11 196.59 268.08 201.55 265.84 203.79 260.88 198.65 255.91 203.79" onclick="switchInfo('Moveable stacks', 'Assistance may be need for the moveable stacks, as they must be turned on spokes with considerable strength, and the aisles are very narrow');"/>
-      <polygon class="cls-34" points="183.57 403.03 181.34 400.79 186.3 395.83 181.34 390.86 183.57 388.62 188.54 393.59 193.5 388.62 195.74 390.86 190.77 395.83 195.74 400.79 193.5 403.03 188.54 397.88 183.57 403.03" onclick="switchInfo('X5', '');"/>
-      <polygon class="cls-34" points="244.99 361.49 242.75 359.25 247.72 354.29 242.75 349.32 244.99 347.08 249.95 352.05 254.92 347.08 257.15 349.32 252.19 354.29 257.15 359.25 254.92 361.49 249.95 356.34 244.99 361.49" onclick="switchInfo('X3', '');"/>
-      <polygon class="cls-34" points="400.38 456.59 398.14 454.36 403.11 449.39 398.14 444.43 400.38 442.19 405.35 447.15 410.31 442.19 412.55 444.43 407.58 449.39 412.55 454.36 410.31 456.59 405.35 451.45 400.38 456.59" onclick="switchInfo('X6', '');"/>
-      <polygon class="cls-34" points="317.94 335.94 315.71 333.7 320.67 328.74 315.71 323.77 317.94 321.54 322.91 326.5 327.88 321.54 330.11 323.77 325.14 328.74 330.11 333.7 327.88 335.94 322.91 330.8 317.94 335.94" onclick="switchInfo('X2', '');"/>
-      <polygon class="cls-34" points="71.76 372.41 69.52 370.17 74.49 365.21 69.52 360.24 71.76 358.01 76.72 362.97 81.69 358.01 83.93 360.24 78.96 365.21 83.93 370.17 81.69 372.41 76.72 367.27 71.76 372.41" onclick="switchInfo('X4', '');"/>
+      <polygon class="cls-34" points="255.91 203.79 253.67 201.55 258.64 196.59 253.67 191.62 255.91 189.38 260.88 194.35 265.84 189.38 268.08 191.62 263.11 196.59 268.08 201.55 265.84 203.79 260.88 198.65 255.91 203.79" onclick="switchInfo('Moveable stacks', 'Assistance may be needed for the moveable stacks, as they must be turned on spokes with considerable strength, and the aisles are very narrow');"/>
+      <polygon class="cls-34" points="183.57 403.03 181.34 400.79 186.3 395.83 181.34 390.86 183.57 388.62 188.54 393.59 193.5 388.62 195.74 390.86 190.77 395.83 195.74 400.79 193.5 403.03 188.54 397.88 183.57 403.03" onclick="switchInfo('GIS and Spatial Data Services', 'Assistance is needed to access information in this area but there is not always someone readily available');"/>
+      <polygon class="cls-34" points="244.99 361.49 242.75 359.25 247.72 354.29 242.75 349.32 244.99 347.08 249.95 352.05 254.92 347.08 257.15 349.32 252.19 354.29 257.15 359.25 254.92 361.49 249.95 356.34 244.99 361.49" onclick="switchInfo('Study Lounge', 'Desks in the study lounge are very low');"/>
+      <polygon class="cls-34" points="400.38 456.59 398.14 454.36 403.11 449.39 398.14 444.43 400.38 442.19 405.35 447.15 410.31 442.19 412.55 444.43 407.58 449.39 412.55 454.36 410.31 456.59 405.35 451.45 400.38 456.59" onclick="switchInfo('Reading Room', 'Door handle may be too high for some, and only one door opens');"/>
+      <polygon class="cls-34" points="317.94 335.94 315.71 333.7 320.67 328.74 315.71 323.77 317.94 321.54 322.91 326.5 327.88 321.54 330.11 323.77 325.14 328.74 330.11 333.7 327.88 335.94 322.91 330.8 317.94 335.94" onclick="switchInfo('Reference Books', 'The placement of shelves in this area make it hard to navigate or get through with a wheelchair');"/>
+      <polygon class="cls-34" points="71.76 372.41 69.52 370.17 74.49 365.21 69.52 360.24 71.76 358.01 76.72 362.97 81.69 358.01 83.93 360.24 78.96 365.21 83.93 370.17 81.69 372.41 76.72 367.27 71.76 372.41" onclick="switchInfo('Research Commons', 'Individual study booths are low in height');"/>
     </g>
     <text class="cls-32" transform="translate(224.27 285.05)">S</text>
   </g>

@@ -582,7 +582,7 @@
     <text class="cls-23" transform="translate(299.79 420.17)">S</text>
     <g id="O">
       <circle class="cls-24" cx="328.76" cy="437.19" r="6.78" onclick="switchInfo('Water Fountain', '');"/>
-      <circle class="cls-24" cx="277.63" cy="300.81" r="6.78" onclick="switchInfo('Ramp', 'There are no stairs between the front wing and the back wing, just ramps for everyone's convenience');"/>
+      <circle class="cls-24" cx="277.63" cy="300.81" r="6.78" onclick="switchInfo('Ramp', 'There are no stairs between the front wing and the back wing, just ramps for everyone/'s convenience');"/>
       <circle class="cls-24" cx="284.41" cy="484.52" r="6.78" onclick="switchInfo('Portico', 'Automatic door to the portico and ramps to the tables');"/>
       <circle class="cls-24" cx="335.54" cy="388.94" r="6.78" onclick="switchInfo('Bathroom', 'Bathroom is accessible inside, but there is no automatic door');"/>
       <circle class="cls-24" cx="153.66" cy="298.64" r="6.78" onclick="switchInfo('Bathroom', 'Accessible bathroom');"/>

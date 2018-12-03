@@ -70,7 +70,7 @@
   </g>
   <g id="Libraries">
     <g id="mckeldin">
-      <polygon id="filled" class="cls-2" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43" onclick="switchMap('mck-floor1-01.svg'); switchInfo('McKeldin Library', 'Description');"/>
+      <polygon id="filled" class="cls-2" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43" onclick="switchMap('mck-floor1-01.svg'); switchInfo('McKeldin Library', 'Phone: (301) 405-9046 \nThe parking directly behind the library is available to people with a license plate or DMV tag indicating handicapped status. \n\nMcKeldin Library is a great place to study and has plentiful information on a wide variety of subjects. At first glance, it may not seem like McKeldin would have many accessibility features, but the staff is well trained and knowledgeable about the accessibility accomodations that the library has to offer. Anyone can request a book online and pick it up within a short amount of time, or even have a book scanned and sent to them electronically. \n\nMcKeldin is also home to the Adaptive Technology Lab. It is located on in first floor in Room 1103, and coordinated by head specialist, William Newsome. They specialize in adaptive technology and have equipment available such as a text to speech machine, braille printer, magnifying device, and scanners');"/>
       <polygon class="cls-3" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43"/>
     </g>
     <g id="hornbake">
@@ -78,7 +78,7 @@
       <polygon class="cls-5" points="703.41 317.83 703.41 380.88 745.78 380.88 745.78 317.83 738.37 317.83 738.01 311.47 709.06 311.47 709.06 317.83 703.41 317.83"/>
     </g>
     <g id="stem_library" data-name="stem library">
-      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29" onclick="switchMap('stem_ground_floor-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');"/>
+      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29" onclick="switchMap('stem-floor1-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');"/>
       <polygon class="cls-7" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29"/>
     </g>
     <g id="other_libraries" data-name="other libraries">
