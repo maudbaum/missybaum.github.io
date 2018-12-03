@@ -13,7 +13,7 @@ window.addEventListener('message', function(event) {
 
     if (event.data.map)
     {
-        document.getElementById("campus-map").data = name;
+        document.getElementById("campus-map").data = event.data.map;
     }
     else
     {
