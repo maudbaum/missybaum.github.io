@@ -447,13 +447,13 @@
     <g id="O">
       <circle class="cls-27" cx="152.69" cy="433.69" r="6.78" onclick="switchInfo('Water Fountain', '');"/>
       <circle class="cls-27" cx="283.97" cy="428.74" r="6.78" onclick="switchInfo('Service Phone', '');"/>
-      <circle class="cls-27" cx="290.53" cy="310.3" r="6.78" onclick="switchInfo('O2', '');"/>
-      <circle class="cls-27" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('O1', '');"/>
+      <circle class="cls-27" cx="290.53" cy="310.3" r="6.78" onclick="switchInfo('Ramp', 'There are no stairs between the front wing and the back wing, just ramps for everyone's convenience');"/>
+      <circle class="cls-27" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('Study Carrels', 'Accessible study carrels may be reserved for people with disabilities');"/>
     </g>
     <g id="X">
       <polygon class="cls-28" points="255.91 203.79 253.67 201.55 258.64 196.59 253.67 191.62 255.91 189.38 260.88 194.35 265.84 189.38 268.08 191.62 263.11 196.59 268.08 201.55 265.84 203.79 260.88 198.65 255.91 203.79" onclick="switchInfo('Moveable stacks', 'Assistance may be needed for the moveable stacks, as they must be turned on spokes with considerable strength, and the aisles are very narrow');"/>
-      <polygon class="cls-28" points="208.46 397.77 206.22 395.54 211.19 390.57 206.22 385.6 208.46 383.37 213.43 388.33 218.39 383.37 220.63 385.6 215.66 390.57 220.63 395.54 218.39 397.77 213.43 392.63 208.46 397.77" onclick="switchInfo('X3', '');"/>
-      <polygon class="cls-28" points="363.22 222.98 360.98 220.75 365.94 215.78 360.98 210.81 363.22 208.58 368.18 213.54 373.15 208.58 375.38 210.81 370.42 215.78 375.38 220.75 373.15 222.98 368.18 217.84 363.22 222.98" onclick="switchInfo('X2', '');"/>
+      <polygon class="cls-28" points="208.46 397.77 206.22 395.54 211.19 390.57 206.22 385.6 208.46 383.37 213.43 388.33 218.39 383.37 220.63 385.6 215.66 390.57 220.63 395.54 218.39 397.77 213.43 392.63 208.46 397.77" onclick="switchInfo('Stacks', 'Study booths in this area are not tall enough');"/>
+      <polygon class="cls-28" points="363.22 222.98 360.98 220.75 365.94 215.78 360.98 210.81 363.22 208.58 368.18 213.54 373.15 208.58 375.38 210.81 370.42 215.78 375.38 220.75 373.15 222.98 368.18 217.84 363.22 222.98" onclick="switchInfo('Stacks', '');"/>
     </g>
     <text class="cls-26" transform="translate(224.27 285.05)">S</text>
   </g>
