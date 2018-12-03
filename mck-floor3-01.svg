@@ -448,12 +448,12 @@
     <text class="cls-24" transform="translate(179.79 272.27) scale(1 1.01)">M</text>
     <text class="cls-25" transform="translate(299.79 420.17)">S</text>
     <g id="O">
-      <circle class="cls-26" cx="359.96" cy="243.86" r="6.78" onclick="switchInfo('O1', '');"/>
+      <circle class="cls-26" cx="359.96" cy="243.86" r="6.78" onclick="switchInfo('Stacks', 'Spacing between stacks in this area is good, walkways between sections are wide and well lit');"/>
       <circle class="cls-26" cx="275.83" cy="426.43" r="6.78" onclick="switchInfo('Service Phone', '');"/>
-      <circle class="cls-26" cx="172.98" cy="259.09" r="6.78" onclick="switchInfo('O2', '');"/>
+      <circle class="cls-26" cx="172.98" cy="259.09" r="6.78" onclick="switchInfo('Bathroom', 'This restroom is accessible');"/>
     </g>
     <g id="X">
-      <polygon class="cls-27" points="255.91 203.79 253.67 201.55 258.64 196.59 253.67 191.62 255.91 189.38 260.88 194.35 265.84 189.38 268.08 191.62 263.11 196.59 268.08 201.55 265.84 203.79 260.88 198.65 255.91 203.79" onclick="switchInfo('X1', '');"/>
+      <polygon class="cls-27" points="255.91 203.79 253.67 201.55 258.64 196.59 253.67 191.62 255.91 189.38 260.88 194.35 265.84 189.38 268.08 191.62 263.11 196.59 268.08 201.55 265.84 203.79 260.88 198.65 255.91 203.79" onclick="switchInfo('Moveable stacks', 'Assistance may be need for the moveable stacks, as they must be turned on spokes with considerable strength, and the aisles are very narrow');"/>
     </g>
     <text class="cls-25" transform="translate(216.69 284.82)">S</text>
   </g>
