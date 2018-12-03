@@ -14,6 +14,8 @@ window.addEventListener('message', function(event) {
         }
         else {
             document.getElementById("info-heading").innerHTML = event.data.title;
+
+            event.data.body.replace("\n", "<br>");
             document.getElementById("info").innerHTML = event.data.body;
         }
     }
