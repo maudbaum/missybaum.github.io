@@ -84,7 +84,7 @@
       }
 
       .cls-14, .cls-17, .cls-18, .cls-32, .cls-41, .cls-47, .cls-51 {
-        font-family: MyriadPro-Regular, Myriad Pro, sans-serif;
+        font-family: myriad-pro, sans-serif;
       }
 
       .cls-17 {

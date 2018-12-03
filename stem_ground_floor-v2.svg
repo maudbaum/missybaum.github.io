@@ -36,7 +36,7 @@
       }
 
       .cls-12, .cls-20, .cls-24, .cls-5 {
-        font-family: MyriadPro-Regular, Myriad Pro, sans-serif;
+        font-family: myriad-pro, sans-serif;
       }
 
       .cls-6 {

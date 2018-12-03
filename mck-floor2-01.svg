@@ -125,7 +125,7 @@
       }
 
       .cls-20, .cls-21, .cls-22 {
-        font-family: MyriadPro-Bold, Myriad Pro, sans-serif;
+        font-family: myriad-pro, sans-serif;
         font-weight: 700;
       }
 
@@ -143,7 +143,7 @@
       }
 
       .cls-23, .cls-27, .cls-33, .cls-37, .cls-40, .cls-47, .cls-51, .cls-53, .cls-59, .cls-86 {
-        font-family: MyriadPro-Regular, Myriad Pro, sans-serif;
+        font-family: myriad-pro, sans-serif;
       }
 
       .cls-26 {
