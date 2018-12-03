@@ -15,8 +15,8 @@ window.addEventListener('message', function(event) {
         else {
             document.getElementById("info-heading").innerHTML = event.data.title;
 
-            event.data.body.replace("\n", "<br>");
-            document.getElementById("info").innerHTML = event.data.body;
+            let newBody = event.data.body.replace(/\n/g, "<br>");
+            document.getElementById("info").innerHTML = newBody;
         }
     }
     else { 
