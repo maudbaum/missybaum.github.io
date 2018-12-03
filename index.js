@@ -1,6 +1,6 @@
 function switchMap(name)
 {
-	document.getElementById("campus-map").data = name;
+    window.top.postMessage({map: name}, '*'); 
 }
 
 function switchInfo(title, body)
@@ -9,9 +9,17 @@ function switchInfo(title, body)
 }
 
 window.addEventListener('message', function(event) { 
-	console.log(event.data);
-	document.getElementById("info-heading").innerHTML = event.data.title;
-	document.getElementById("info").innerHTML = event.data.body;
+	console.log(event.origin);
+
+    if (event.data.map)
+    {
+        document.getElementById("campus-map").data = name;
+    }
+    else
+    {
+        document.getElementById("info-heading").innerHTML = event.data.title;
+        document.getElementById("info").innerHTML = event.data.body;
+    }
 	//console.log(event.origin);
     // // IMPORTANT: Check the origin of the data! 
     // if (~event.origin.indexOf('http://yoursite.com')) 
