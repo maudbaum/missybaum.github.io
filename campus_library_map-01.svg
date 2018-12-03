@@ -2,6 +2,7 @@
   <script xlink:href="./index.js" />
   <defs>
     <style>
+      @import url("https://use.typekit.net/bqr7aly.css");
       .cls-1, .cls-3, .cls-5, .cls-7, .cls-8 {
         fill: none;
       }
