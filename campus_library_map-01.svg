@@ -78,7 +78,7 @@
       <polygon class="cls-5" points="703.41 317.83 703.41 380.88 745.78 380.88 745.78 317.83 738.37 317.83 738.01 311.47 709.06 311.47 709.06 317.83 703.41 317.83"/>
     </g>
     <g id="stem_library" data-name="stem library">
-      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29" onclick="switchMap('stem_ground_floor-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');"/>
+      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29" onclick="switchMap('stem-floor1-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');"/>
       <polygon class="cls-7" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29"/>
     </g>
     <g id="other_libraries" data-name="other libraries">
