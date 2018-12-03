@@ -630,7 +630,7 @@
     <g id="O">
       <circle class="cls-33" cx="259.72" cy="271.22" r="6.78" onclick="switchInfo('Service Phone', '');"/>
       <circle class="cls-33" cx="454.36" cy="367.62" r="6.78" onclick="switchInfo('Reading Room', 'Very spacious and all tables are at a good height');"/>
-      <circle class="cls-33" cx="347.69" cy="299.84" r="6.78" onclick="switchInfo('Ramp', '');"/>
+      <circle class="cls-33" cx="347.69" cy="299.84" r="6.78" onclick="switchInfo('Ramp', 'There are no stairs between the front wing and the back wing, just ramps for everyone's convenience');"/>
       <circle class="cls-33" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('Study Carrels', 'Accessible study carrels may be reserved for people with disabilities');"/>
     </g>
     <g id="X">
