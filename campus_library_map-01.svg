@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1189.2 761.41">
+  <script xlink:href="./index.js" />
   <defs>
     <style>
       .cls-1, .cls-3, .cls-5, .cls-7, .cls-8 {
@@ -48,6 +49,10 @@
         stroke: #666;
         stroke-width: 3px;
       }
+
+      #filled, #filled-2, #filled-3 {
+        cursor: pointer;
+      }
     </style>
   </defs>
   <title>campus_library_map</title>
@@ -65,15 +70,15 @@
   </g>
   <g id="Libraries">
     <g id="mckeldin">
-      <polygon id="filled" class="cls-2" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43"/>
+      <polygon id="filled" class="cls-2" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43" onclick="switchMap('mck-floor1-01.svg'); switchInfo('McKeldin Library', 'Description');"/>
       <polygon class="cls-3" points="503.14 574.43 503.14 550.32 508.94 550.32 508.94 538.42 503.14 538.42 503.14 513.7 473.85 513.7 473.85 521.94 446.38 521.94 446.38 568.07 475.07 568.07 475.07 574.43 503.14 574.43"/>
     </g>
     <g id="hornbake">
-      <polygon id="filled-2" data-name="filled" class="cls-4" points="703.41 317.83 703.41 380.88 745.78 380.88 745.78 317.83 738.37 317.83 738.01 311.47 709.06 311.47 709.06 317.83 703.41 317.83"/>
+      <polygon id="filled-2" data-name="filled" class="cls-4" points="703.41 317.83 703.41 380.88 745.78 380.88 745.78 317.83 738.37 317.83 738.01 311.47 709.06 311.47 709.06 317.83 703.41 317.83" onclick="switchMap('hbk_groundfloor-01.svg'); switchInfo('Hornbake Library', 'This library is the home of University Archives and Special Collections. For most cases, permission is required to check out from this library. The ground floor houses the Library Media Services. <br><br>Phone: (301) 314-2710 <br>Parking: Vehicles with state issued disabled driver tags or stickers may park in the designated spaces on level G, 1, 2 and 3 in Regents Drive Parking Garage at no charge. <br><br>In Nonprint Media Services, (301-405-9236) there are automatic doors, wheelchair-accessible stations for videodisc, videotape, audio cassette, dial access and internet access. Dial access stations with amplifiers and closed caption decoders are also available.');"/>
       <polygon class="cls-5" points="703.41 317.83 703.41 380.88 745.78 380.88 745.78 317.83 738.37 317.83 738.01 311.47 709.06 311.47 709.06 317.83 703.41 317.83"/>
     </g>
     <g id="stem_library" data-name="stem library">
-      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29"/>
+      <polygon id="filled-3" data-name="filled" class="cls-6" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29" onclick="switchMap('stem_ground_floor-v2.svg'); switchInfo('STEM Library', 'Phone: (301) 405-9157; Parking: 2 reserved spaces in Lot E and EE behind the building; Location: Math Building; Entrance: From Lot E automatic doors. Elevator to the left of the doors goes to Library level (1st floor).');"/>
       <polygon class="cls-7" points="904.23 267.29 870.58 267.29 870.58 282.58 873.64 282.58 873.64 287.17 880.67 287.17 883.73 282.58 889.24 282.58 889.24 298.18 904.23 298.18 904.23 267.29"/>
     </g>
     <g id="other_libraries" data-name="other libraries">
