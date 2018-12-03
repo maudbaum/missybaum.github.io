@@ -446,7 +446,7 @@
     <text class="cls-26" transform="translate(346.46 403.2)">S</text>
     <g id="O">
       <circle class="cls-27" cx="152.69" cy="433.69" r="6.78" onclick="switchInfo('O4', '');"/>
-      <circle class="cls-27" cx="283.97" cy="428.74" r="6.78" onclick="switchInfo('O3', '');"/>
+      <circle class="cls-27" cx="283.97" cy="428.74" r="6.78" onclick="switchInfo('Service Phone', '');"/>
       <circle class="cls-27" cx="290.53" cy="310.3" r="6.78" onclick="switchInfo('O2', '');"/>
       <circle class="cls-27" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('O1', '');"/>
     </g>

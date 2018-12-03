@@ -303,7 +303,7 @@
     <text class="cls-14" transform="translate(301.17 230.07) scale(1 1.01)">W</text>
     <text class="cls-14" transform="translate(329.63 218.93) scale(1 1.01)">M</text>
     <g id="O">
-      <circle class="cls-15" cx="270.3" cy="254.56" r="6.78" onclick="switchInfo('O2', '');"/>
+      <circle class="cls-15" cx="270.3" cy="254.56" r="6.78" onclick="switchInfo('Service Phone', '');"/>
       <circle class="cls-15" cx="230.7" cy="160.83" r="6.78" onclick="switchInfo('O1', '');"/>
     </g>
     <g id="X">

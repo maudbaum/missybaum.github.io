@@ -431,7 +431,7 @@
     <text class="cls-27" transform="translate(357.83 405.88) scale(1 1.01)">M</text>
     <text class="cls-27" transform="translate(189.39 276.18) scale(1 1.01)">M</text>
     <g id="O">
-      <circle class="cls-28" cx="283.97" cy="428.74" r="6.78" onclick="switchInfo('O2', '');"/>
+      <circle class="cls-28" cx="283.97" cy="428.74" r="6.78" onclick="switchInfo('Service Phone', '');"/>
       <circle class="cls-28" cx="274.39" cy="342.7" r="6.78" onclick="switchInfo('O1', '');"/>
     </g>
     <g id="X">

@@ -628,7 +628,7 @@
     <text class="cls-31" transform="translate(187.37 272.5) scale(1 1.01)">M</text>
     <text class="cls-32" transform="translate(352.54 403.72)">S</text>
     <g id="O">
-      <circle class="cls-33" cx="259.72" cy="271.22" r="6.78" onclick="switchInfo('O2', '');"/>
+      <circle class="cls-33" cx="259.72" cy="271.22" r="6.78" onclick="switchInfo('Service Phone', '');"/>
       <circle class="cls-33" cx="454.36" cy="367.62" r="6.78" onclick="switchInfo('O4', '');"/>
       <circle class="cls-33" cx="347.69" cy="299.84" r="6.78" onclick="switchInfo('O3', '');"/>
       <circle class="cls-33" cx="132.32" cy="208.58" r="6.78" onclick="switchInfo('O1', '');"/>
